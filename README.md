@@ -9,7 +9,7 @@ Overview
 
 Logs are a critical component of modern software systems. They provide insight into system behavior, debugging information, and operational events.
 
-This utility demonstrates how pattern matching can be used to extract useful information, such as client IP addresses—from log files for debugging, monitoring, or analysis.
+This utility demonstrates how pattern matching can be used to extract useful information, such as client IP addresses from log files for debugging, monitoring, or analysis.
 
 The script reads a log file and prints any detected IPv4 addresses found within the log entries.
 
