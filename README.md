@@ -20,7 +20,7 @@ The script reads a log file and prints any detected IPv4 addresses found within 
 - Processes logs line-by-line for efficient parsing
 - Simple command-line execution
 
-## Output Example
+## Example
 ***Output:***
 ```
 INFO: 4
