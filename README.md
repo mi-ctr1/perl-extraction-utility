@@ -23,10 +23,12 @@ The script reads a log file and prints any detected IPv4 addresses found within 
 ## Example
 ***Output:***
 ```
-INFO: 4
-WARN: 2
-ERROR: 4
-TOTAL: 10
+45.33.12.199
+10.10.10.10
+8.8.8.8
+172.31.255.12
+185.220.101.45
+192.168.1.14
 ```
 
 
