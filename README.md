@@ -38,7 +38,6 @@ This utility is designed to expand into a more flexible log parsing tool. Potent
 
 Multiple Pattern Extraction
 Support extracting multiple patterns from log files, such as:
-- IPv4 addresses
 - timestamps
 - error messages
 - log severity levels (INFO, WARN, ERROR)
